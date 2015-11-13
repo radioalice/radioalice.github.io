@@ -1,0 +1,9 @@
+---
+title:  "Artistas"
+subtitle: "Quem toca a Rádio Alice"
+author: "radioalice"
+avatar: "img/authors/ra.png"
+image: "img/music.png"
+date:   2015-04-24 12:12:12
+---
+

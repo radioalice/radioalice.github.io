@@ -1,0 +1,9 @@
+---
+title:  "Podcasts"
+subtitle: "Gravações de alguns programas"
+author: "radioalice"
+avatar: "img/authors/ra.png"
+image: "img/podcasts.png"
+date:   2015-04-22 12:12:12
+---
+
