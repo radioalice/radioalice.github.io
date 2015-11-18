@@ -1,7 +1,7 @@
 ---
 title:  "Chat"
 subtitle: "Sala de Bate-Papo"
-author: "ra"
+author: "radioalice"
 avatar: "img/authors/ra.png"
 image: "img/irc.png"
 date:   2015-04-21 12:12:12
